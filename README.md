@@ -1,8 +1,9 @@
 👨‍💻 Nadson Aguiar
 Desenvolvedor Back-End | Estudante de ADS
 
-👋 Olá! Me chamo Nadson Aguiar, tenho 25 anos, natural do Ceará e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado no mundo da tecnologia. Sou um desenvolvedor em formação com foco em aplicações back-end. Atualmente construo projetos com Java, utilizando frameworks modernos e ferramentas robustas para criar soluções eficientes.
+👋 Olá! Me chamo Nadson Aguiar, tenho 25 anos, natural do Ceará e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado no mundo da tecnologia. 
 
+Sou um desenvolvedor em formação com foco em aplicações back-end e APIs. Atualmente construo projetos com Java, utilizando frameworks modernos e ferramentas robustas para criar soluções eficientes.
 
 💼 Linguagens e Tecnologias
 ☕ Backend (Java / Spring)
