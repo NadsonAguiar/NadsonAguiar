@@ -6,19 +6,12 @@ Desenvolvedor Back-End | Estudante de ADS
 Sou um desenvolvedor em formação com foco em aplicações back-end e APIs. Atualmente construo projetos com Java, utilizando frameworks modernos e ferramentas robustas para criar soluções eficientes.
 
 💼 Linguagens e Tecnologias
-☕ Backend (Java / Spring)
-[Mostrar Imagem](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[Mostrar Imagem](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-[Mostrar Imagem](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-[Mostrar Imagem](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-🗄️ Banco de Dados
-Mostrar Imagem
-Mostrar Imagem
-🛠️ Ferramentas
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+Backend (Java / Spring)
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+Banco de Dados
+Mostrar Imagem Mostrar Imagem
+Ferramentas
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
 
 📚 O que estou estudando agora:
 
@@ -36,9 +29,7 @@ Mostrar Imagem
 
 📫 Contato
 <div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+Mostrar Imagem Mostrar Imagem Mostrar Imagem
 </div>
 
 <div align="center">
