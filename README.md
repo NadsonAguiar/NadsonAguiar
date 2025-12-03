@@ -36,8 +36,8 @@ Sou um desenvolvedor em formação com foco em aplicações back-end e APIs. Atu
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NadsonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadsonAguiar&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NadsonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadsonAguiar&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
 
 ---
@@ -45,8 +45,10 @@ Sou um desenvolvedor em formação com foco em aplicações back-end e APIs. Atu
 ## 📫 Contato
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.nadsonaguiar@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-nadsonaguiar) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nadsonaguiar_)
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.nadsonaguiar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-nadsonaguiar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nadsonaguiar_)
 
 </div>
 
