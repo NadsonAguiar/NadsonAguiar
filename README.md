@@ -36,8 +36,11 @@ Sou um desenvolvedor em formação com foco em aplicações back-end e APIs. Atu
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NadsonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadsonAguiar&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NadsonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NadsonAguiar&layout=compact&langs_count=7&theme=dracula&locale=pt-br)
+
 </div>
 
 ---
